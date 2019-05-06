@@ -6,7 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
-  "respository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/bernawil/concurrency-control"
   },
