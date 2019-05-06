@@ -1,0 +1,25 @@
+{
+  "name": "concurrency-control",
+  "version": "1.0.0",
+  "description": "an utility that provides easy concurrency control of async functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/bernawil/concurrency-control"
+  },
+  "keywords": [
+    "concurrency",
+    "control",
+    "inversion",
+    "of",
+    "control"
+  ],
+  "author": "Bernardo Wilberger",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
